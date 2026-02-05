@@ -1,0 +1,5 @@
+{
+  "environment": "sample",
+  "base_url": "https://api.example.com",
+  "access_token": "YOUR_TOKEN_HERE"
+}
